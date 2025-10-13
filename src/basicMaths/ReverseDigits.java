@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package basicMaths;
+
 import java.util.Scanner;
 
 // Time Complexity: O(log10N + 1) where N is the input number.

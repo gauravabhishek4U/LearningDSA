@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package basicMaths;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
